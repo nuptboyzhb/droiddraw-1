@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/183/trunk/DroidDraw/src/org/droiddraw/property
+END
+ColorProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/121/trunk/DroidDraw/src/org/droiddraw/property/ColorProperty.java
+END
+WidthProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/180/trunk/DroidDraw/src/org/droiddraw/property/WidthProperty.java
+END
+SelectProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/147/trunk/DroidDraw/src/org/droiddraw/property/SelectProperty.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115/trunk/DroidDraw/src/org/droiddraw/property/Property.java
+END
+BooleanProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/71/trunk/DroidDraw/src/org/droiddraw/property/BooleanProperty.java
+END
+ImageProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/104/trunk/DroidDraw/src/org/droiddraw/property/ImageProperty.java
+END
+FloatProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/176/trunk/DroidDraw/src/org/droiddraw/property/FloatProperty.java
+END
+StringProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/183/trunk/DroidDraw/src/org/droiddraw/property/StringProperty.java
+END
+IntProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/81/trunk/DroidDraw/src/org/droiddraw/property/IntProperty.java
+END

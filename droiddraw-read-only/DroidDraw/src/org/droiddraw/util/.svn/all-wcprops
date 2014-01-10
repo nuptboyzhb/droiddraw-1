@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/176/trunk/DroidDraw/src/org/droiddraw/util
+END
+FileCopier.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/104/trunk/DroidDraw/src/org/droiddraw/util/FileCopier.java
+END
+FileFilterExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/131/trunk/DroidDraw/src/org/droiddraw/util/FileFilterExtension.java
+END
+StringHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/115/trunk/DroidDraw/src/org/droiddraw/util/StringHandler.java
+END
+LayoutUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/95/trunk/DroidDraw/src/org/droiddraw/util/LayoutUploader.java
+END
+ArrayHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115/trunk/DroidDraw/src/org/droiddraw/util/ArrayHandler.java
+END
+DisplayMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/55/trunk/DroidDraw/src/org/droiddraw/util/DisplayMetrics.java
+END
+ColorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/172/trunk/DroidDraw/src/org/droiddraw/util/ColorHandler.java
+END
+DroidDrawHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/176/trunk/DroidDraw/src/org/droiddraw/util/DroidDrawHandler.java
+END
